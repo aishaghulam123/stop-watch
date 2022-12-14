@@ -1,0 +1,39 @@
+body{
+    background-image: url(https://cdn.wallpapersafari.com/23/43/yKSPjB.jpg);
+}
+.abc{
+    display: flex;
+    color: azure;
+    justify-content: center;
+    margin-top: 10%;
+   
+}
+h1{
+     width: 100px; 
+
+    /* font-size: 88px; */ 
+ }
+
+
+button{
+    border: 5px 5px solid;
+    background-color: blueviolet;
+   color: black;
+   border-radius: 2px;
+   box-shadow:2px 1px  indigo; 
+   width: 20%;
+   font-size: x-large;
+   
+}
+button:hover{
+background-color: yellow;
+color: black;
+}
+.xyz{
+    margin-left: 10%;
+}
+/* #eee{
+    margin-top: 30%;
+    margin-left: 78%;
+
+} */
